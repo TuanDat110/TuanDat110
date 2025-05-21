@@ -69,8 +69,8 @@ This project enables users to control various PC functions using only hand gestu
 
 ### 📫 Let's Connect!
 - Email: tuandat1102004@gmail.com  
-- LinkedIn: [https://www.linkedin.com/in/tuandatdatd/]
-- Facebook: [https://www.facebook.com/tuandatdatd/]
+- LinkedIn: https://www.linkedin.com/in/tuandatdatd/
+- Facebook: https://www.facebook.com/tuandatdatd/
 
 
 Thanks for checking out my GitHub!
