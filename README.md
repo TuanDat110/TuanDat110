@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm VO DAO TUAN DAT!
 
 🎓 I'm currently a student majoring in **Embedded Systems and IoT**.  
-🤖 Although my major focuses on hardware, my true passion is in **Artificial Intelligence**, especially:
-
+🤖 Although my major focuses on hardware, my true passion is in **Artificial Intelligence**
+## 🌟 Technical Focus & Skills
 🌱 Machine Learning
 Supervised & unsupervised learning, classification, regression, model evaluation, feature engineering.
 
