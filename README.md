@@ -47,6 +47,7 @@ I'm always exploring how to bring AI into embedded systems and desktop/mobile in
 ### 🚀 Featured Projects
 
 #### 🖐️ Control PC Functions via Hand Gestures
+## Key features:
 This project enables users to control various PC functions using only hand gestures captured through a webcam. Utilizing the MediaPipe framework for real-time hand landmark detection, combined with image processing and external libraries, the system allows gesture-based control for tasks such as:
 - Mouse Control: Move the cursor and perform left-clicks using finger positions.
 - Volume Control: Adjust the system volume by changing the distance between specific fingers.
@@ -60,7 +61,16 @@ This project enables users to control various PC functions using only hand gestu
 - **pycaw** for volume manipulation.
 - **screen_brightness_control** for brightness settings.
 - **pyautogui** for screen capturing.
-
+---
+#### ✋ Hand Sign Language Teaching System
+## Key features:
+A real-time, AI-powered learning environment to support Vietnamese hand sign language education.
+📘 Study module: Teaches Vietnamese hand sign alphabet with interactive visuals.
+🧠 AI assessment: Uses computer vision and GRU-based sequence models to evaluate user gestures.
+💻 Interactive UI: Built using C# and PyQt5, enabling a dynamic and user-friendly experience.
+🔗 Model integration: Real-time inference with YOLOv8, MediaPipe, and custom PyTorch models through FastAPI and WebSocket for low-latency communication.
+## Key technologies and libraries used:
+# YOLOv8, GRU, PyTorch, Python, C#, PyQt5, FastAPI, WebSocket, MediaPipe
 ### 📚 Currently Learning
 🤖 Researching AI solutions for Vietnamese Sign Language recognition
 🔗 Integrating AI models with user interfaces via API for seamless interaction
