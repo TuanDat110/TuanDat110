@@ -6,16 +6,16 @@
 🌱 **Machine Learning**
 Supervised & unsupervised learning, classification, regression, model evaluation, feature engineering.
 
-💡 Deep Learning
+💡 **Deep Learning** 
 Neural networks (CNN, RNN, GRU, Transformers), model training, optimization, and transfer learning.
 
-👁️‍🗨️ Computer Vision (OpenCV, MediaPipe, YOLO)
+👁️‍🗨️ **Computer Vision (OpenCV, MediaPipe, YOLO)**  
 Image processing, object detection, pose estimation, segmentation, and real-time vision applications.
 
-🧠 NLP & LLMs (Transformers, GRU, RNN)
+🧠 **NLP & LLMs (Transformers, GRU, RNN)**  
 Text classification, sequence modeling, embeddings, attention mechanisms, and fine-tuning pre-trained LLMs.
 
-🤝 Integrating AI with real-time applications and UI
+🤝 **Integrating AI with real-time applications and UI**  
 Bridging AI models with interactive systems for smart and responsive solutions.
 
 I'm always exploring how to bring AI into embedded systems and desktop/mobile interfaces.
