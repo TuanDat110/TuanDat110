@@ -39,7 +39,7 @@ I'm always exploring how to bring AI into embedded systems and desktop/mobile in
 
 ---
 
-#### 🚀 Projects
+### 🚀 Projects
 
 #### 🖐️ Control PC Functions via Hand Gestures
 ## Key features:
