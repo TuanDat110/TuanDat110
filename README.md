@@ -61,12 +61,16 @@ This project enables users to control various PC functions using only hand gestu
 ## Key features:
 A real-time, AI-powered learning environment to support Vietnamese hand sign language education.  
 
-📘 Study module: Teaches Vietnamese hand sign alphabet with interactive visuals.
-🧠 AI assessment: Uses computer vision and GRU-based sequence models to evaluate user gestures.
-💻 Interactive UI: Built using C# and PyQt5, enabling a dynamic and user-friendly experience.
-🔗 Model integration: Real-time inference with YOLOv8, MediaPipe, and custom PyTorch models through FastAPI and WebSocket for low-latency communication.
+📘 Study module: Teaches Vietnamese hand sign alphabet with interactive visuals.  
+
+🧠 AI assessment: Uses computer vision and GRU-based sequence models to evaluate user gestures.  
+
+💻 Interactive UI: Built using C# and PyQt5, enabling a dynamic and user-friendly experience.  
+
+🔗 Model integration: Real-time inference with YOLOv8, MediaPipe, and custom PyTorch models through FastAPI and WebSocket for low-latency communication.  
+
 ## Key technologies and libraries used:
-# YOLOv8, GRU, PyTorch, Python, C#, PyQt5, FastAPI, WebSocket, MediaPipe
+'YOLOv8', GRU, PyTorch, Python, C#, PyQt5, FastAPI, WebSocket, MediaPipe
 ### 📚 Currently Learning
 🤖 Researching AI solutions for Vietnamese Sign Language recognition
 🔗 Integrating AI models with user interfaces via API for seamless interaction
