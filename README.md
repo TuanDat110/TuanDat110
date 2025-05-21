@@ -70,7 +70,7 @@ A real-time, AI-powered learning environment to support Vietnamese hand sign lan
 🔗 Model integration: Real-time inference with YOLOv8, MediaPipe, and custom PyTorch models through FastAPI and WebSocket for low-latency communication.  
 
 ## Key technologies and libraries used:
-'YOLOv8', GRU, PyTorch, Python, C#, PyQt5, FastAPI, WebSocket, MediaPipe
+**YOLOv8, GRU, PyTorch, Python, C#, PyQt5, FastAPI, WebSocket, MediaPipe**
 ### 📚 Currently Learning
 🤖 Researching AI solutions for Vietnamese Sign Language recognition
 🔗 Integrating AI models with user interfaces via API for seamless interaction
