@@ -71,10 +71,14 @@ A real-time, AI-powered learning environment to support Vietnamese hand sign lan
 
 ## Key technologies and libraries used:
 **YOLOv8, GRU, PyTorch, Python, C#, PyQt5, FastAPI, WebSocket, MediaPipe**
-### 📚 Currently Learning
-🤖 Researching AI solutions for Vietnamese Sign Language recognition
-🔗 Integrating AI models with user interfaces via API for seamless interaction
-🧠 Exploring AI Agents, Large Language Models (LLMs), and Generative AI (GenAI) for next-gen intelligent systems
+### 📚 Currently Learning   
+
+🤖 Researching AI solutions for Vietnamese Sign Language recognition  
+
+🔗 Integrating AI models with user interfaces via API for seamless interaction  
+
+🧠 Exploring AI Agents, Large Language Models (LLMs), and Generative AI (GenAI) for next-gen intelligent systems  
+
 ---
 
 ### 📫 Let's Connect!
